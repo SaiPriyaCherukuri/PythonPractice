@@ -4,10 +4,10 @@ print("3.***Loops are great***")
 print("4.****Loops are great****")
 print("5.*****Loops are great*****")
 
-initialize
-while condition:
-    code
-    iterator
+## initialize
+# while condition:
+#    code
+#   iterator
 # Three Loop Questions:
 #1. What do I want to repeat?
 #  -> message

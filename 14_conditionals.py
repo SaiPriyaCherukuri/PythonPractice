@@ -1,6 +1,6 @@
 print("Conditionals: IF statements")
 
-
+# Example of a personal butler helping to have a nice day
 is_raining = False
 is_cold = False
 print("Good Morning!")
@@ -12,6 +12,8 @@ elif not(is_raining) and is_cold:
     print("Bring jacket!")
 else:
     print("Shirt is fine!")
+
+
 
 amount = 51
 if amount <= 50:
@@ -45,7 +47,7 @@ else:
         print('Input error!')
 
 
-print(Conditionals - Improve the function)
+print('Conditionals - Improve the function')
 # optimize/shorten the code in the function
 # try to reduce the number of conditionals 
 
